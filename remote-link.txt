@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://inside-africa-bag-shaw.trycloudflare.com/vnc.html
+URL       : https://patent-descending-function-literary.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 03:37:03
+Created   : 2026-07-31 07:57:50
 =======================================================
