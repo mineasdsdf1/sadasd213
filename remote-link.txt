@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://moderator-celtic-floor-winner.trycloudflare.com/vnc.html
+URL       : https://lemon-lambda-tenant-operator.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 16:59:27
+Created   : 2026-08-04 21:21:00
 =======================================================
