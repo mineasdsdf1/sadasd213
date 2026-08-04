@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://celebration-continually-reservoir-canberra.trycloudflare.com/vnc.html
+URL       : https://hidden-skins-cap-boulevard.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 07:45:58
+Created   : 2026-08-04 12:08:00
 =======================================================
