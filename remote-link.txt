@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://distributed-operations-seq-durable.trycloudflare.com/vnc.html
+URL       : https://vegas-serving-adelaide-hawaii.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 20:31:37
+Created   : 2026-08-17 01:45:07
 =======================================================
