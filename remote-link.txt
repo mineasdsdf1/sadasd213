@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://edt-covers-explicitly-answers.trycloudflare.com/vnc.html
+URL       : https://highs-identical-wake-pci.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-21 01:46:10
+Created   : 2026-08-21 10:38:19
 =======================================================
