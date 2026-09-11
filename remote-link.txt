@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://attitude-opened-acceptable-aud.trycloudflare.com/vnc.html
+URL       : https://somewhat-assists-towns-assumes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 04:12:16
+Created   : 2026-09-11 09:30:38
 =======================================================
