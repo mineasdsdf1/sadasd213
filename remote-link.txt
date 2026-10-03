@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://minus-productions-distribute-computer.trycloudflare.com/vnc.html
+URL       : https://embedded-millions-studio-surveillance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 18:39:07
+Created   : 2026-10-03 22:49:49
 =======================================================
