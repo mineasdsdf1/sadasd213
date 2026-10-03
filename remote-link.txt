@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://clusters-stations-day-going.trycloudflare.com/vnc.html
+URL       : https://minus-productions-distribute-computer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 10:20:39
+Created   : 2026-10-03 18:39:07
 =======================================================
