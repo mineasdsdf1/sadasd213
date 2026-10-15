@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://portable-daisy-surname-manner.trycloudflare.com/vnc.html
+URL       : https://expression-shorter-academic-kyle.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 23:09:03
+Created   : 2026-10-15 04:13:08
 =======================================================
