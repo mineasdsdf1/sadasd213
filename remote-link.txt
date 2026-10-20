@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://major-threaded-responses-journey.trycloudflare.com/vnc.html
+URL       : https://textbook-console-patio-bloggers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 09:57:10
+Created   : 2026-10-20 14:56:33
 =======================================================
