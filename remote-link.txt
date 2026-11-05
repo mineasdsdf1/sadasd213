@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fundamentals-sale-voting-resolutions.trycloudflare.com/vnc.html
+URL       : https://rider-pursuant-gbp-cant.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 21:14:15
+Created   : 2026-11-05 06:10:42
 =======================================================
