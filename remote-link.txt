@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://referral-listing-boating-barrier.trycloudflare.com/vnc.html
+URL       : https://shipment-gas-irc-faculty.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 12:50:40
+Created   : 2026-11-07 05:36:22
 =======================================================
